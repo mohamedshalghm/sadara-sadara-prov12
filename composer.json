@@ -1,5 +1,5 @@
 {
-	"name":"Sadara/SadaraProv",
+	"name":"sadara/sadara-prov",
 	"description":"This Is Test Package to get publuc services",
 	"type":"package",
 	"license":"MIT",
@@ -21,7 +21,7 @@
 	},
 	"autoload":{
 		"psr-4":{
-			"Sadara\\SadaraProv\\":"src/"
+			"sadara\\sadara-prov\\":"src/"
 		}
 	},
 	"minimum-stability":"dev"
